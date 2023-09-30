@@ -1,0 +1,656 @@
+index estilo
+[COLOR="sii"] {
+    color: red;
+  }
+
+
+
+  index estilo estilo index
+  [COLOR="sii"] {
+    color: red;
+  }
+input{
+    color: blue;
+}
+
+
+
+index estilo2 
+* {
+    color: brown;
+  }
+
+
+
+index estilo3 
+h1 {
+    color: red;
+  }
+
+
+
+
+index estilo4 
+.titulo-clase {
+    color: orchid;
+  }
+
+
+
+index estilo5 
+[COLOR="sii"] {
+    color: red;
+  }
+
+
+
+index2 estilo6 
+.h2-class b {
+    color: red;
+  }
+.h2-class b span{
+    color: blue;
+
+
+
+index3 index4 
+  }
+.h2-class b:hover{
+   color: orange;
+  }
+
+
+
+index5 estilo8 
+#elemento{
+    color: blue;
+  }
+h1{
+    color: coral !important 
+  }
+
+
+
+index6 estilo9 
+.form__input:first-child{
+    color: darkblue;
+   }
+.form__input--active{
+    color: red
+   }
+.form__input--pito{
+    color: orange;
+   }
+
+
+
+index7 estilo10
+.contact-form{
+    font-size: 25px;
+    }
+    .contact-form__h2{
+        font-size: 2em;
+    }
+
+    
+
+index8 estilo11
+*{
+     padding: 0px;
+     margin:  0px;
+    }
+.contact-form__h2{
+    font-size: 3em;
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
+index9 estilo12
+.contact-form{
+  font-size: 25px;
+}
+.contact-form__h2{
+  font-size: 2em;
+  font-family: Georgia;
+  line-height: 1.9;
+  font-weight: 700;
+}
+
+
+
+index10 estilo13
+.contact-form{
+  font-size: 25px;
+}
+.contact-form__h2{
+  font-size: 2em;
+  font-family: sans-serif;
+  color: red;
+}
+
+
+
+index11 estilo14 
+.contact-form{
+  font-size: 25px;
+}
+.contact-form__h2{
+  font-size: 2em;
+  font-family: 'Georama', sans-serif;
+  font-family: 'Palette Mosaic', cursive;
+  font-family: 'Style Script', cursive;
+  font-family: 'WindSong', cursive;
+  color: red;
+}
+
+
+index12 estilo15
+*{
+  font-weight: 100;
+  font-size: 30px;
+}
+
+h2{
+  display: inline;
+}
+
+p{
+  height: 400px;
+  width: 190px;
+  padding: 20px;
+}
+
+
+
+index13 estilo16
+*{
+  font-weight: 100;
+  font-size: 30px;
+}
+
+h2{
+  background-color: brown;
+  display: inline-block;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+
+index14 estilo17
+*{
+  font-weight: 100;
+  font-size: 30px;
+}
+
+h2{
+ background-color: blueviolet;
+ display: inline-block;
+ padding: 100px;
+}
+
+
+
+index16 estilo20
+div{
+  width: 120px;
+  height: 120px;
+  display: block;
+  background-color:yellow;
+  font-size: 30px;
+}
+
+.caja1{
+  background-color:red;
+}
+
+.caja2{
+  background-color:green;
+  position: relative;
+  top: 50px;
+  left: 20px;
+  z-index: 3;
+}
+
+.caja3{
+  background-color: blue;
+  position: relative;
+
+}
+
+.caja4{
+  background-color: yellow;
+}
+
+
+index14 estilo17
+*{
+  font-weight: 100;
+  font-size: 30px;
+}
+h2{
+ background-color: blueviolet;
+ display: inline-block;
+ padding: 100px;
+ box-sizing: border-box;
+ text-align: center;
+}
+h2{
+  background-color: blueviolet;
+  display: inline-block;
+  padding: 100px;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 20px 10px;
+  border-radius: 50%;
+  border: 4px solid blue;
+  box-shadow: 30px 20px 10px 10px #000;
+  text-shadow: 2px 2px 7px #fff, 2px 2px 7px #fff;
+  transform: rotate(90deg);
+}
+
+
+index16 estilo20
+div{
+  width: 1600px;
+  height: 160px;
+  display: block;
+  background-color:yellow;
+  font-size: 30px;
+}
+
+.caja1{
+  background-color:red;
+}
+
+.caja2{
+  background-color:green;
+  position: relative;
+  top: 50px;
+  left: 20px;
+  z-index: 3;
+}
+
+.caja3{
+  background-color: blue;
+  position: relative;
+
+}
+
+.caja4{
+  background-color: yellow;
+}
+
+
+
+index17 estilo21
+.contenedor{
+  width: 300px;
+  height: 300px;
+  background:blue;
+  position: relative;
+  margin:40px;
+}
+
+.hijo{
+  background-color: brown;
+  height: 120px;
+  width: 120px;
+  position: relative;
+  top: -20px;
+  left: -20px;
+  z-index: -1;
+}
+
+
+
+index18 estilo22
+div{
+  display: block;
+  background-color:green;
+  position: absolute;
+}
+
+div div{
+height: 100px;
+width: 100px;
+background: yellow;
+
+}
+
+
+.contenedor{
+position: relative;
+border: 4px solid blue;
+margin: 50px auto;
+height: 450px;
+width: 450px;
+}
+
+.caja1 {
+
+}
+
+.caja2{
+  right: 0px;
+}
+
+.caja3{
+ right: 0px;
+ bottom: 0px;
+}
+
+.caja4{
+  bottom: 0px;
+}
+
+.caja5{
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin: auto;
+}
+
+
+
+index19 estilo23
+*{
+  font-size: 40px;
+}
+
+body{
+  padding-top: 100px;
+}
+
+.caja-fixed{
+  background-color: red;
+  position: fixed;
+  margin: -100px;
+}
+
+
+index20 estilo24
+b{
+  width: 150px;
+  height: 150px;
+  margin: 20px;
+  border: 10px solid red;
+  background: yellow;
+  display: inline-block;
+  height: 300px;
+  widht: 300px;
+}
+
+
+index21  estilo25
+div{
+  margin: auto;
+  margin-top: 50px;
+  width: 320px;
+  height: 350px;
+  border: 4px solid red ;
+  background: grey;
+  overflow: scroll;
+  overflow-y: hidden;
+}
+
+
+
+index22  estilo26
+.contenedor{
+}
+
+.contenedor div{
+   width: 50%;
+   float: right;
+}
+
+.primario{
+    background: red;
+}
+
+.secundario{
+     background: yellow;
+}
+
+
+
+index23  estilo27
+.contenedor{
+    margin: auto;
+    margin-top: 50px;
+    border: 4px solid blue;
+    background: grey;
+    width: 50%;
+}
+
+.contenedor{
+    width: 50%;
+    height: 700px;
+    font-size: 2em;
+}
+
+.contenedor img{
+    float: right;
+}
+ img{
+     width: 400px;
+     height: 300px;
+     margin-left: 18px;
+     padding: 20px;
+ }
+
+
+
+index24  estilo28
+.texto{
+  padding: 20px;
+}
+
+.texto::first-line{
+   color: blue;
+   font-size: 2em;
+}
+
+.texto::first-letter{
+  color: red;
+  font-size: 3em;
+}
+
+
+
+
+index25  estilo29
+form{
+  margin: 100px auto;
+  display: block;
+  background-color: #555;
+    padding: 100px;
+    width: 50%;
+}
+
+input{
+  padding: 6px;
+  width: 100%;
+}
+
+input::placeholder{
+  color: red;
+}
+
+input::selection{
+  background-color: yellow;
+}
+
+p::selection{
+    background-color: brown;
+    margin: 100px auto;
+    color: orange;
+}
+
+
+
+index26 estilo30
+b::before{
+    content: "HOLAAA";
+    color: red;
+}
+
+b::after{
+  content: "todo tendencias";
+  color: coral;
+  background: grey;
+}
+
+
+
+
+index27 estilo31
+div{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.caja1{
+  height: 200px;
+  width: 200px;
+  background: grey;
+  transition: background 1s, height 0.2s, width 1s;
+    border: 3px solid red;
+}
+
+.caja1:hover{
+  background: yellow;
+  height: 300px;
+  width: 300px;
+  border-color: blue;
+}
+
+
+
+index28 estilo32
+.caja1 {
+  margin: 30px;
+  display: block;
+}
+
+.caja1:link {
+  color: brown;
+}
+
+.caja1:visited{
+  color: violet;
+}
+
+
+
+index29 estilo33
+.caja{
+  width: 250px;
+  height: 250px;
+  background: red;
+  margin: 25px;
+  transition: all 1s;
+}
+
+.caja:active{
+    background: blue;
+    width: 400px;
+}
+
+
+
+index30 estilo34
+.caja {
+  transition: background 0.4s, padding 1s;
+  margin: 25 px;
+}
+
+.caja:focus {
+  background: blue;
+  padding: 20px;
+}
+
+
+
+index31 estilo35
+.caja{
+  margin: 25px;
+}
+
+.caja b:lang(en) {
+  background: red;
+  padding: 20px;
+}
+
+
+
+index32 estilo36
+.caja{
+    margin: 25px;
+    width: 300px;
+    height: 300px;
+}
+
+.caja img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  border: 2px solid red;
+}
+
+
+
+index33 estilo37
+.caja {
+  margin: 25px;
+  width: 200px;
+  height: 300px;
+}
+
+.caja img {
+  height: 100%;
+  width: 100%;
+    border: 2px solid red;
+    object-fit: cover;
+    object-position: right;
+}
+
+
+
+index34 estilo38
+.caja{
+  margin: 25px;
+  width: 200px;
+  height: 300px;
+  border: 4px solid red;
+  background: pink;
+  cursor: pointer;
+}
+
+.caja:active{
+  cursor: row-resize;
+}
+
+
+
+
+index35 estilo39
+body{
+  background-color: #000;
+}
+
+.caja{
+  background: #bbb;
+  border: 5px solid blue;
+  height: 300px;
+  width: 200px;
+  margin: 25px;
+  opacity: 1;
+}
+

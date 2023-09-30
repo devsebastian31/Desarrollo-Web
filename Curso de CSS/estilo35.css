@@ -1,0 +1,8 @@
+.caja{
+	margin: 25px;
+}
+
+.caja b:lang(en) {
+	background: red;
+	padding: 20px;
+}

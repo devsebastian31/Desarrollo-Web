@@ -1,0 +1,10 @@
+b::before{
+    content: "HOLAAA";
+    color: red;
+}
+
+b::after{
+	content: "todo tendencias";
+	color: coral;
+	background: grey;
+}

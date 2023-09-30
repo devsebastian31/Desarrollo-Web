@@ -1,0 +1,47 @@
+
+{
+    background-color: blueviolet;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 50%;
+    border: 4px dashed blue;
+}
+
+
+{
+    background-color: blueviolet;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 50%;
+    border: 4px double blue;
+}
+
+
+{
+    background-color: blueviolet;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 50%;
+    border: 4px groove ridge blue;
+}
+
+
+{
+    background-color: blueviolet;
+    display: inline-block;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 50%;
+    border: 4px inset outset grey
+}
