@@ -125,5 +125,3 @@ _HTML es un lenguaje de marcado de texto, esto sirve para crear la estructura o 
 | ```<select>```   | Representa un control que permite la selección entre un conjunto de opciones.                               |
 | ```<option>```   | Representa una opción en un elemento.                                                                       |
 | ```<textarea>``` | Representa un control de edición de texto multilínea.                                                       |
-
-<br><br>
