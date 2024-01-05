@@ -1,0 +1,12 @@
+.contenedor div{
+   width: 50%;
+   float: right;
+}
+
+.primario{
+    background: red;
+}
+
+.secundario{
+     background: yellow;
+}
