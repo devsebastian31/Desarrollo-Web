@@ -5,3 +5,19 @@
 h1{
     color: coral !important 
 }
+
+/* Selector de tipo (baja especificidad) */
+p {
+    color: blue;
+}
+  
+/* Selector de clase (especificidad media) */
+.clase {
+    color: green;
+}
+  
+/* Selector de ID (alta especificidad) */
+#id {
+  color: red;
+}
+  
