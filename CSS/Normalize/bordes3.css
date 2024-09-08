@@ -25,4 +25,5 @@ h2{
     box-shadow: 30px 20px 10px 10px #000;
     text-shadow: 2px 2px 7px #fff, 2px 2px 7px #fff;
     transform: rotate(45deg);
+    /* box-shadow: desplazamiento-x desplazamiento-y desenfoque extensión color; */
 }
